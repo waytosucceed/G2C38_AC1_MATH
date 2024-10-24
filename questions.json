@@ -1,0 +1,18 @@
+[
+  {
+    "questionNo": 4,
+    "question": "Fill in the empty boxes with the correct numbers.",
+    "options":["","×","","=",""],
+    "answers": ["2","×","2","=","4"],
+    "secondImg":"./images/24.png"
+
+  },
+  {
+    "questionNo": 5,
+    "question": "Fill in the empty boxes with the correct numbers",
+    "options":["","×","","=",""],
+    "answers": ["2","×","4","=","8"],
+    "secondImg":"./images/25.png"
+    
+  }
+]
